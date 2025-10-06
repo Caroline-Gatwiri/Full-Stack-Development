@@ -51,13 +51,6 @@ Each project folder may include:
 
 ---
 
-## 📅 Progress Tracking
-| Date | Topic/Module | Status |
-|------|---------------|--------|
-| YYYY-MM-DD | Example: HTML Crash Course | ✅ Done |
-| YYYY-MM-DD | Example: CSS Layouts | 🔄 In Progress |
-
----
 
 ## 💬 About Me
 I’m Caroline Gatwiri — a growing software developer passionate about **web and mobile development**.  
